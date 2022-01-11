@@ -6,6 +6,6 @@ conducting rapid proof of concept experiments or
 benchmarking phishing classification models.
 
 ## who is benefiting from it?
-Anti-phishing researchers
-Anti-phishing company
-End user
+- Anti-phishing researchers
+- Anti-phishing company
+- End user
