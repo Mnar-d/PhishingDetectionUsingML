@@ -1,6 +1,6 @@
 # Phishing Detection Using ML
 
-## the idea 
+## The Idea 
 The goal of the System is phishing features analysis, 
 conducting rapid proof of concept experiments or 
 benchmarking phishing classification models.
