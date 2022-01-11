@@ -1,4 +1,4 @@
-# Phishing Detection Using ML
+# Phishing Detection Using Machine learning
 
 ## The Idea 
 The goal of the System is phishing features analysis, 
